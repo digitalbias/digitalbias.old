@@ -1,16 +1,19 @@
 <header>
+
   <h1 class="header">Dave Mitchell</h1>
   <p class="header">mitchelld@acm.org</p>
-  <ul>
-    <li><a class="buttons bitbucket" href="https://bitbucket.org/digitalbias">Bitbucket Profile</a></li>
-    <li><a class="buttons github" href="https://github.com/digitalbias">GitHub Profile</a></li>
-  </ul>
   
   <li><a href="/" class='buttons home'>Home</a></li>
 
+  <a href="/feed.rss" class='small rss buttons'></a>
+  <a class="small buttons bitbucket" href="https://bitbucket.org/digitalbias"></a>
+  <a class="small buttons github" href="https://github.com/digitalbias"></a>
+  <a class="small buttons twitter" href="https://twitter.com/digitalbias"></a>
+
+
   <h2 class="header">Posts</h2>
   <ul>
-    {% for post in site.posts %}
+    {% for post in site.posts limit:20 %}
       <li>
         <a href="{{ post.url }}" class='post'>{{ post.title }}</a>
       </li>
