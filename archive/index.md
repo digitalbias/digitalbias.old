@@ -2,9 +2,11 @@
 layout: default
 title: Archive
 ---
+# Archive
+
 <form action="http://www.google.com/cse" id="cse-search-box">
   <p>
-    <input type="hidden" name="cx" value="006553118601910168903:-x3qflztwei" />
+    <input type="hidden" name="cx" value="010303690663164079778:5jhjge0ycf0" />
     <input type="hidden" name="ie" value="UTF-8" />
     <input type="text" name="q" id="cse-search-field" placeholder="Search Dave's stuff" />
     <!--input type="submit" name="sa" value="Search" id="cse-search-button" /-->

@@ -56,7 +56,7 @@ When we die we enter what is called the spirit world. It is a place where the sp
 
 > We have more friends behind the veil than on this side, and they will hail us more joyfully than you were ever welcomed by your parents and friends in this world; and you will rejoice more when you meet them than you ever rejoiced to see a friend in this life; and then we shall go on from step to step, from rejoicing to rejoicing, and from one intelligence and power to another, our happiness becoming more and more exquisite and sensible...(DBY, 379–80).
 
-_(Teachings of the Presidents of the Church: Brigham Young, p. 282)_
+> _(Teachings of the Presidents of the Church: Brigham Young, p. 282)_
 
 I believe Alice and Phil had a great reunion when she passed over last week. Can you imagine the joy and the happiness she experienced? Once again reunited with her love after so many years apart? Then to see other family and friends. I can see in my minds eye what it would be like for her to be reunited with her mother and then turn and see her good friend Janet Tilton. What a great reunion! I know they had a great many happy times here in mortality and now…now they have the greater joy knowing each other again in another sphere.
 
@@ -64,7 +64,7 @@ And then, besides this happiness and joy, there are so many other advantages pil
 
 > When we pass into the spirit world we shall possess a measure of his power. Here, we are continually troubled with ills and ailments of various kinds. In the spirit world we are free from all this and enjoy life, glory, and intelligence; and we have the Father to speak to us, Jesus to speak to us, and angels to speak to us, and we shall enjoy the society of the just and the pure who are in the spirit world until the resurrection (DBY, 380–81).
 
-_(Teachings of the Presidents of the Church: Brigham Young, p. 282)_
+> _(Teachings of the Presidents of the Church: Brigham Young, p. 282)_
 
 Can you picture it? Alice, free from pain and ailments she suffered for the last few years, now able to talk with angels? Enjoying the "society of the just and the pure…until the resurrection?" Ya, I think she's in heaven in a number of different meanings of the word. 
 
@@ -74,13 +74,13 @@ When you are in the spirit world, everything there will appear as natural as thi
 
 > Spirits are just as familiar with spirits as bodies are with bodies, though spirits are composed of matter so refined as not to be tangible to this coarser organization. They walk, converse, and have their meetings; and the spirits of good men like Joseph and the Elders, who have left this Church on earth for a season to operate in another sphere, are rallying all their powers and going from place to place preaching the Gospel
 
-_(Teachings of the Presidents of the Church: Brigham Young, p. 281)_
+> _(Teachings of the Presidents of the Church: Brigham Young, p. 281)_
 
 > Father Smith [Joseph Smith Sr.] and Carlos [Smith] and Brother [Edward] Partridge, yes, and every other good Saint, are just as busy in the spirit world as you and I are here. They can see us, but we cannot see them unless our eyes were opened. What are they doing there? They are preaching, preaching all the time, and preparing the way for us to hasten our work in building temples here and elsewhere (DBY, 378).
 
 > The spirits that dwell in these tabernacles on this earth, when they leave them go directly into this world of spirits. What! A congregated mass of inhabitants there in spirit, mingling with each other, as they do here? Yes, brethren, they are there together, and if they associate together, and collect together, in clans and in societies as they do here, it is their privilege. No doubt they yet, more or less, see, hear, converse and have to do with each other, both good and bad. If the Elders of Israel in these latter times go and preach to the spirits in prison, they associate with them, precisely as our Elders associate with the wicked in the flesh, when they go to preach to them (DBY, 378).
 
-_(Teachings of the Presidents of the Church: Brigham Young, p. 280)_
+> _(Teachings of the Presidents of the Church: Brigham Young, p. 280)_
 
 Terry talked about how there was a time of pioneers in New England and how Alice had a part in that work. I suspect she will have assignments related to what she had been doing here in life already. Working with relatives she had done research for. Working with people from New England. Working to help the work progress and making the way possible for us to continue the work here on this side. I expect that she has tackled the challenge with the same enthusiasm and vigor that marked her life when she was here in mortality.
 
@@ -96,13 +96,13 @@ Here is Brigham Young:
 
 > After the spirit leaves the body, it remains without a tabernacle in the spirit world until the Lord, by his law that he has ordained, brings to pass the resurrection of the dead [see D&C 93:33–34]. When the angel who holds the keys of the resurrection shall sound his trumpet, then the peculiar fundamental particles that organized our bodies here, if we do honor to them, though they be deposited in the depths of the sea, and though one particle is in the north, another in the south, another in the east, and another in the west, will be brought together again in the twinkling of an eye, and our spirits will take possession of them. 
 
-_(Teachings of the Presidents of the Church: Brigham Young, p. 276)_
+> _(Teachings of the Presidents of the Church: Brigham Young, p. 276)_
 
 Joseph Smith described the resurrection in this way:
 
 > “So plain was the vision, that I actually saw men, before they had ascended from the tomb, as though they were getting up slowly. They took each other by the hand and said to each other, ‘My father, my son, my mother, my daughter, my brother, my sister.’ And when the voice calls for the dead to arise, suppose I am laid by the side of my father, what would be the first joy of my heart? To meet my father, my mother, my brother, my sister; and when they are by my side, I embrace them and they me. …
 
-_(Teachings of the Presidents of the Church: Joseph Smith, p. )_
+> _(Teachings of the Presidents of the Church: Joseph Smith, p. )_
 
 When the time comes we receive the very same body we had here in mortality. President Wilford Woodruff said he was "very glad to have the same body in the resurrection with which [he] waded swamps, swam rivers and travelled and labored to build up the kingdom of God here on the earth." (Teachings of Presidents of the Church: Wilford Woodruff, (2004), 77–88)
 
@@ -126,7 +126,7 @@ All of us will eventually be resurrected. It's part of the plan of our Heavenly 
 
 > ...what we are saying is that when the saints of God chart a course of righteousness, when they gain sure testimonies of the truth and divinity of the Lord’s work, when they keep the commandments, when they overcome the world, when they put first in their lives the things of God’s kingdom: when they do all these things, and then depart this life—though they have not yet become perfect—they shall nonetheless gain eternal life in our Father’s kingdom; and eventually they shall be perfect as God their Father and Christ His Son are perfect.
 
-_(Ensign Nov 1976, "The Dead Who Die in the Lord", Bruce R. McConkie)_
+> _(Ensign Nov 1976, "The Dead Who Die in the Lord", Bruce R. McConkie)_
 
 Death was sweet to Alice. She was true to her testimony and firm in her faith of Jesus Christ. There was no dread or fear of death, but a resolute determination to remain faithful to the end of her days.
 

@@ -5,6 +5,6 @@ title: Essays
 
 # Essays
 
-This is a list of various essays and talks I've written or given.
+An assortment of essays and talks. 
 
 * [Eternal Progression](2011-11-progression.html)
