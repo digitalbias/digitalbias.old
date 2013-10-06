@@ -342,6 +342,14 @@ a.twitter {
   background: url(../images/twitter.png) no-repeat 1px;
 }
 
+a.cabinet {
+  background: url(../images/cabinet.png) no-repeat 1px;
+}
+
+a.document {
+  background: url(../images/document.png) no-repeat 1px;
+}
+
 a.rss { 
   background: url(../images/rss.png) no-repeat 1px;
   padding: 2px 2px 2px 22px;
