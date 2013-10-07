@@ -3,5 +3,7 @@ markdown: redcarpet
 pygments: true
 description: Exploring Tech in Daily Life
 url: http://digitalbias.com
+relative_permalinks: false
+permalink: /:year/:month/:day/:title
 redcarpet:
   extensions: [tables, footnotes]
