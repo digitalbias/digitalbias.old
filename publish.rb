@@ -12,8 +12,8 @@ conf = {
 
 # Jekyll::Site.new(conf).process
 puts home
-`jekyll build -s #{conf[:source]} -d #{conf[:destination]}`
-`cd #{conf[:destination]}`
-`git add .`
-`git commit -m "adding changes to the app"`
-`git push origin master`
+puts `jekyll build -s #{conf[:source]} -d #{conf[:destination]}`
+puts `cd #{conf[:destination]}`
+puts `git add .`
+puts `git commit -m "automatic publish for app with script"`
+puts `git push origin master`
