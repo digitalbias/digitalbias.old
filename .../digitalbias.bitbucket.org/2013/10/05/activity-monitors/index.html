@@ -1,0 +1,313 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+
+    <title>David Mitchell</title>
+
+    <link rel="stylesheet" href="/stylesheets/styles.css">
+    <link rel="stylesheet" href="/stylesheets/pygment_trac.css">
+    <script src="/javascripts/scale.fix.js"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-256389-2']);
+      _gaq.push(['_trackPageview']);
+
+      (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+  </head>
+  <body>
+    <div class="wrapper">
+
+      <header>
+
+  <h1 class="header">David Mitchell</h1>
+  <p class="header">mitchelld@acm.org</p>
+
+  <li><a href="/" class='buttons home'>Home</a></li>
+  <li><a href="/archive" class='buttons cabinet'>Archive</a></li>
+  <li><a href="/essays" class='buttons document'>Essays</a></li>
+
+  <a href="/feed.rss" class='small rss buttons'></a>
+  <a class="small buttons bitbucket" href="https://bitbucket.org/digitalbias"></a>
+  <a class="small buttons github" href="https://github.com/digitalbias"></a>
+  <a class="small buttons twitter" href="https://twitter.com/digitalbias"></a>
+
+
+  <h2 class="header">Posts</h2>
+  <ul>
+    
+      <li>
+        <a href="/2013/10/05/activity-monitors" class='post'>Activity Monitors</a>
+      </li>
+    
+      <li>
+        <a href="/2013/10/05/tools" class='post'>Tools of the trade</a>
+      </li>
+    
+      <li>
+        <a href="/2013/10/04/welcome-to-the-reboot" class='post'>Welcome to the reboot</a>
+      </li>
+    
+  </ul>
+</header>
+
+
+      <section>
+
+      <h1>Activity Monitors</h1>
+<p class="meta">Sat, 2013 Oct 05</p>
+
+
+
+<div class="post">
+<p>I did an analysis of the different health monitors out there before I ended up buying a <a href="http://www.fitbit.com/one">Fitbit One</a>. Here&#39;s the table showing the various features. Eventually I was narrowing it down to a couple of pieces of tech, so the table isn&#39;t complete. Still, it may be useful for somebody. It was done in multimarkdown, which is not completly supported by Redcarpet (or at least the version used by Jekyll).</p>
+
+<h2>Fitness Trackers</h2>
+
+<p>This is designed to be a review of the different features provided by the various activity trackers out there. I am creating this so I have a good senses of what is avaliable and can make an informed decision. I get the feeling no matter what I choose, I&#39;m going to be making some compromises.</p>
+
+<table><thead>
+<tr>
+<th>Feature</th>
+<th><a href="http://www.fitbit.com/flex">Fitbit Flex</a></th>
+<th><a href="http://www.fitbit.com/one">Fitbit One</a></th>
+<th><a href="http://www.fitbit.com/zip">Fitbit Zip</a></th>
+<th><a href="https://jawbone.com/up">Jawbone Up</a></th>
+<th><a href="http://lark.com/products/larklife/experience">Lark Life</a></th>
+<th><a href="http://www.mybasis.com/">Bias</a></th>
+<th><a href="http://getpebble.com/">Pebble Watch</a>[^watchapi]</th>
+<th><a href="http://www.fitlinxx.net/pebble-activity-monitor.htm">Pebble</a></th>
+<th>Pedometer</th>
+</tr>
+</thead><tbody>
+<tr>
+<td>Price</td>
+<td>$99</td>
+<td>$99</td>
+<td>$59</td>
+<td>$130</td>
+<td>$150</td>
+<td>$200</td>
+<td>$150</td>
+<td></td>
+<td>$5</td>
+</tr>
+<tr>
+<td>Track Steps</td>
+<td>Y</td>
+<td>Y</td>
+<td>Y</td>
+<td>Y</td>
+<td>Y</td>
+<td>Y</td>
+<td></td>
+<td></td>
+<td>Y</td>
+</tr>
+<tr>
+<td>Track distance</td>
+<td>Y</td>
+<td>Y</td>
+<td>Y</td>
+<td></td>
+<td>Y</td>
+<td></td>
+<td></td>
+<td></td>
+<td>N</td>
+</tr>
+<tr>
+<td>Track calories</td>
+<td>Y</td>
+<td>Y</td>
+<td>Y</td>
+<td></td>
+<td>Y</td>
+<td></td>
+<td></td>
+<td></td>
+<td>N</td>
+</tr>
+<tr>
+<td>Altimeter</td>
+<td>N</td>
+<td>Y</td>
+<td>N</td>
+<td>N</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>N</td>
+</tr>
+<tr>
+<td>Track active minutes</td>
+<td>Y</td>
+<td>Y</td>
+<td></td>
+<td></td>
+<td>Y</td>
+<td>Y</td>
+<td></td>
+<td></td>
+<td>N</td>
+</tr>
+<tr>
+<td>Monitor sleep</td>
+<td>Y</td>
+<td>Y</td>
+<td>N</td>
+<td>Y</td>
+<td></td>
+<td>Y</td>
+<td></td>
+<td></td>
+<td>N</td>
+</tr>
+<tr>
+<td>Goal progress display</td>
+<td>Y</td>
+<td>N</td>
+<td>N</td>
+<td>N</td>
+<td></td>
+<td>Y</td>
+<td></td>
+<td></td>
+<td>N</td>
+</tr>
+<tr>
+<td>Wireless sync</td>
+<td>Y</td>
+<td>Y</td>
+<td>Y</td>
+<td>N</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>N</td>
+</tr>
+<tr>
+<td>Bluetooth sync</td>
+<td>Y</td>
+<td>Y</td>
+<td>Y</td>
+<td>N</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>N</td>
+</tr>
+<tr>
+<td>Rechargeable battery</td>
+<td>Y</td>
+<td>Y</td>
+<td>Y</td>
+<td>Y</td>
+<td>Y</td>
+<td>Y</td>
+<td></td>
+<td></td>
+<td>N</td>
+</tr>
+<tr>
+<td>Sync with MyFitnessPal</td>
+<td>Y</td>
+<td>Y</td>
+<td>Y</td>
+<td>Y</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>N</td>
+</tr>
+<tr>
+<td>Can export data</td>
+<td>[^data]</td>
+<td>[^data]</td>
+<td>[^data]</td>
+<td>Y</td>
+<td></td>
+<td>N</td>
+<td></td>
+<td></td>
+<td>N</td>
+</tr>
+<tr>
+<td>Software/Data vis</td>
+<td>Y</td>
+<td>Y</td>
+<td>Y</td>
+<td>Y</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>N</td>
+</tr>
+<tr>
+<td>Inactivity Alarm</td>
+<td>[^script]</td>
+<td>[^script]</td>
+<td>[^script]</td>
+<td>Y</td>
+<td>Y</td>
+<td></td>
+<td></td>
+<td></td>
+<td>N</td>
+</tr>
+<tr>
+<td>Heart monitor</td>
+<td>N</td>
+<td>N</td>
+<td>N</td>
+<td>N</td>
+<td>N</td>
+<td>Y</td>
+<td></td>
+<td></td>
+<td>N</td>
+</tr>
+</tbody></table>
+
+<p>[^data]: Requires premium membership on fitbit.com. If you are a developer, you can get access to the data via a free API.</p>
+
+<p>[^watchapi]: The Pebble Watch is an e-ink watch and has the capability to do this activity monitoring, but there are no apps that provide this functionality yet.</p>
+
+<p>[^script]: Using their REST API it is possible to write something to do this. <a href="https://wiki.fitbit.com/display/API/Fitbit+API">Fitbit API</a></p>
+
+</div>
+
+
+      </section>
+
+      <footer>
+      <footer>
+	<p><small>Hosted on <a href="https://pages.github.com">GitHub Pages</a> using the Dinky theme</small></p>
+</footer>
+
+      </footer>
+    </div>
+    <!--[if !IE]><script>fixScale(document);</script><![endif]-->
+    
+  </body>
+</html>
+
+
+

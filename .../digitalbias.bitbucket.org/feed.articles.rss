@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>David Mitchell - Articles</title>
+		<description>Exploring Tech in Daily Life</description>
+		<link>http://digitalbias.com</link>
+		<atom:link href="http://digitalbias.com/feed.articles.rss" rel="self" type="application/rss+xml" />
+		
+			
+			<item>
+				<title>Activity Monitors</title>
+				<description>&lt;p&gt;I did an analysis of the different health monitors out there before I ended up buying a &lt;a href=&quot;http://www.fitbit.com/one&quot;&gt;Fitbit One&lt;/a&gt;. Here&amp;#39;s the table showing the various features. Eventually I was narrowing it down to a couple of pieces of tech, so the table isn&amp;#39;t complete. Still, it may be useful for somebody. It was done in multimarkdown, which is not completly supported by Redcarpet (or at least the version used by Jekyll).&lt;/p&gt;
+
+&lt;h2&gt;Fitness Trackers&lt;/h2&gt;
+
+&lt;p&gt;This is designed to be a review of the different features provided by the various activity trackers out there. I am creating this so I have a good senses of what is avaliable and can make an informed decision. I get the feeling no matter what I choose, I&amp;#39;m going to be making some compromises.&lt;/p&gt;
+
+&lt;table&gt;&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Feature&lt;/th&gt;
+&lt;th&gt;&lt;a href=&quot;http://www.fitbit.com/flex&quot;&gt;Fitbit Flex&lt;/a&gt;&lt;/th&gt;
+&lt;th&gt;&lt;a href=&quot;http://www.fitbit.com/one&quot;&gt;Fitbit One&lt;/a&gt;&lt;/th&gt;
+&lt;th&gt;&lt;a href=&quot;http://www.fitbit.com/zip&quot;&gt;Fitbit Zip&lt;/a&gt;&lt;/th&gt;
+&lt;th&gt;&lt;a href=&quot;https://jawbone.com/up&quot;&gt;Jawbone Up&lt;/a&gt;&lt;/th&gt;
+&lt;th&gt;&lt;a href=&quot;http://lark.com/products/larklife/experience&quot;&gt;Lark Life&lt;/a&gt;&lt;/th&gt;
+&lt;th&gt;&lt;a href=&quot;http://www.mybasis.com/&quot;&gt;Bias&lt;/a&gt;&lt;/th&gt;
+&lt;th&gt;&lt;a href=&quot;http://getpebble.com/&quot;&gt;Pebble Watch&lt;/a&gt;[^watchapi]&lt;/th&gt;
+&lt;th&gt;&lt;a href=&quot;http://www.fitlinxx.net/pebble-activity-monitor.htm&quot;&gt;Pebble&lt;/a&gt;&lt;/th&gt;
+&lt;th&gt;Pedometer&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Price&lt;/td&gt;
+&lt;td&gt;$99&lt;/td&gt;
+&lt;td&gt;$99&lt;/td&gt;
+&lt;td&gt;$59&lt;/td&gt;
+&lt;td&gt;$130&lt;/td&gt;
+&lt;td&gt;$150&lt;/td&gt;
+&lt;td&gt;$200&lt;/td&gt;
+&lt;td&gt;$150&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;$5&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Track Steps&lt;/td&gt;
+&lt;td&gt;Y&lt;/td&gt;
+&lt;td&gt;Y&lt;/td&gt;
+&lt;td&gt;Y&lt;/td&gt;
+&lt;td&gt;Y&lt;/td&gt;
+&lt;td&gt;Y&lt;/td&gt;
+&lt;td&gt;Y&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;Y&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Track distance&lt;/td&gt;
+&lt;td&gt;Y&lt;/td&gt;
+&lt;td&gt;Y&lt;/td&gt;
+&lt;td&gt;Y&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;Y&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;N&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Track calories&lt;/td&gt;
+&lt;td&gt;Y&lt;/td&gt;
+&lt;td&gt;Y&lt;/td&gt;
+&lt;td&gt;Y&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;Y&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;N&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Altimeter&lt;/td&gt;
+&lt;td&gt;N&lt;/td&gt;
+&lt;td&gt;Y&lt;/td&gt;
+&lt;td&gt;N&lt;/td&gt;
+&lt;td&gt;N&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;N&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Track active minutes&lt;/td&gt;
+&lt;td&gt;Y&lt;/td&gt;
+&lt;td&gt;Y&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;Y&lt;/td&gt;
+&lt;td&gt;Y&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;N&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Monitor sleep&lt;/td&gt;
+&lt;td&gt;Y&lt;/td&gt;
+&lt;td&gt;Y&lt;/td&gt;
+&lt;td&gt;N&lt;/td&gt;
+&lt;td&gt;Y&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;Y&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;N&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Goal progress display&lt;/td&gt;
+&lt;td&gt;Y&lt;/td&gt;
+&lt;td&gt;N&lt;/td&gt;
+&lt;td&gt;N&lt;/td&gt;
+&lt;td&gt;N&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;Y&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;N&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Wireless sync&lt;/td&gt;
+&lt;td&gt;Y&lt;/td&gt;
+&lt;td&gt;Y&lt;/td&gt;
+&lt;td&gt;Y&lt;/td&gt;
+&lt;td&gt;N&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;N&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Bluetooth sync&lt;/td&gt;
+&lt;td&gt;Y&lt;/td&gt;
+&lt;td&gt;Y&lt;/td&gt;
+&lt;td&gt;Y&lt;/td&gt;
+&lt;td&gt;N&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;N&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Rechargeable battery&lt;/td&gt;
+&lt;td&gt;Y&lt;/td&gt;
+&lt;td&gt;Y&lt;/td&gt;
+&lt;td&gt;Y&lt;/td&gt;
+&lt;td&gt;Y&lt;/td&gt;
+&lt;td&gt;Y&lt;/td&gt;
+&lt;td&gt;Y&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;N&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Sync with MyFitnessPal&lt;/td&gt;
+&lt;td&gt;Y&lt;/td&gt;
+&lt;td&gt;Y&lt;/td&gt;
+&lt;td&gt;Y&lt;/td&gt;
+&lt;td&gt;Y&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;N&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Can export data&lt;/td&gt;
+&lt;td&gt;[^data]&lt;/td&gt;
+&lt;td&gt;[^data]&lt;/td&gt;
+&lt;td&gt;[^data]&lt;/td&gt;
+&lt;td&gt;Y&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;N&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;N&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Software/Data vis&lt;/td&gt;
+&lt;td&gt;Y&lt;/td&gt;
+&lt;td&gt;Y&lt;/td&gt;
+&lt;td&gt;Y&lt;/td&gt;
+&lt;td&gt;Y&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;N&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Inactivity Alarm&lt;/td&gt;
+&lt;td&gt;[^script]&lt;/td&gt;
+&lt;td&gt;[^script]&lt;/td&gt;
+&lt;td&gt;[^script]&lt;/td&gt;
+&lt;td&gt;Y&lt;/td&gt;
+&lt;td&gt;Y&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;N&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Heart monitor&lt;/td&gt;
+&lt;td&gt;N&lt;/td&gt;
+&lt;td&gt;N&lt;/td&gt;
+&lt;td&gt;N&lt;/td&gt;
+&lt;td&gt;N&lt;/td&gt;
+&lt;td&gt;N&lt;/td&gt;
+&lt;td&gt;Y&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;N&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+
+&lt;p&gt;[^data]: Requires premium membership on fitbit.com. If you are a developer, you can get access to the data via a free API.&lt;/p&gt;
+
+&lt;p&gt;[^watchapi]: The Pebble Watch is an e-ink watch and has the capability to do this activity monitoring, but there are no apps that provide this functionality yet.&lt;/p&gt;
+
+&lt;p&gt;[^script]: Using their REST API it is possible to write something to do this. &lt;a href=&quot;https://wiki.fitbit.com/display/API/Fitbit+API&quot;&gt;Fitbit API&lt;/a&gt;&lt;/p&gt;
+</description>
+				<pubDate>Sat, 05 Oct 2013 23:31:00 -0600</pubDate>
+				<link>http://digitalbias.com/2013/10/05/activity-monitors</link>
+				<guid isPermaLink="true">http://digitalbias.com/2013/10/05/activity-monitors</guid>
+			</item>
+			
+		
+			
+			<item>
+				<title>Tools of the trade</title>
+				<description>&lt;p&gt;There are a number of tools I find I rely on throught out the day. My intention is to make a list of them and talk about the pros and cons for each one in a separate post. My hope is that by sharing my experience with each one, I can better see for myself why I like one tool over another and also share why I may or may not be considering moving to another tool.&lt;/p&gt;
+
+&lt;p&gt;So, the list:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.apple.com/osx/&quot;&gt;Mac OS X/Mac Book Air&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.sublimetext.com/&quot;&gt;Sublime Text 3&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://brettterpstra.com/projects/nvalt/&quot;&gt;nvALT&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://markedapp.com/&quot;&gt;Marked&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.alfredapp.com/&quot;&gt;Alfred&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://projects.tynsoe.org/en/geektool/&quot;&gt;GeekTool&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://agilebits.com/onepassword&quot;&gt;1Password&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.literatureandlatte.com/scrivener.php&quot;&gt;Scrivener&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.hogbaysoftware.com/products/plaintext&quot;&gt;PlainText&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.ulyssesapp.com/&quot;&gt;Ulysses/Daedalus&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://culturedcode.com/things/&quot;&gt;Things&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://totalterminal.binaryage.com/&quot;&gt;Total Terminal&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://brew.sh/&quot;&gt;Homebrew&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://git-scm.com/&quot;&gt;git&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.ruby-lang.org/en/&quot;&gt;ruby&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.youneedabudget.com/&quot;&gt;YNAB&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+				<pubDate>Sat, 05 Oct 2013 17:05:00 -0600</pubDate>
+				<link>http://digitalbias.com/2013/10/05/tools</link>
+				<guid isPermaLink="true">http://digitalbias.com/2013/10/05/tools</guid>
+			</item>
+			
+		
+			
+			<item>
+				<title>Welcome to the reboot</title>
+				<description>&lt;p&gt;Welcome to the reboot. I had a blog for a long time. There were posts in there from before 2000. They&amp;#39;re all gone now, sitting on a hard drive I have no inclination to spin up and retrieve the data from. In anycase, the data is there, if I should ever find the inclination to go and retreive it again, but this is the new system. It&amp;#39;s based on &lt;a href=&quot;http://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt; and uses markup as the lingua franka from the posts. Simpler, not as heavy with scripting and backend databases. If needed it could be ported over to yet another system. &lt;/p&gt;
+
+&lt;p&gt;Over the years I&amp;#39;ve used a number of systems. &lt;a href=&quot;http://wordpress.org/&quot;&gt;WordPress&lt;/a&gt;, &lt;a href=&quot;http://movabletype.org/&quot;&gt;MovableType&lt;/a&gt;, &lt;a href=&quot;http://radio.userland.com/&quot;&gt;Radio UserLand&lt;/a&gt;, and &lt;a href=&quot;http://sourceforge.net/projects/blojsom/&quot;&gt;Blojsom&lt;/a&gt; to name a few. Plain text files with markdown, run through a static site generation script is the name of the game for now.&lt;/p&gt;
+</description>
+				<pubDate>Fri, 04 Oct 2013 17:05:00 -0600</pubDate>
+				<link>http://digitalbias.com/2013/10/04/welcome-to-the-reboot</link>
+				<guid isPermaLink="true">http://digitalbias.com/2013/10/04/welcome-to-the-reboot</guid>
+			</item>
+			
+		
+	</channel>
+</rss>
