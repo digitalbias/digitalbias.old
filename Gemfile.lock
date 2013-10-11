@@ -9,6 +9,7 @@ GEM
       highline (~> 1.6.11)
     directory_watcher (1.4.1)
     fast-stemmer (1.0.2)
+    git (1.2.6)
     github-pages (6)
       RedCloth (= 4.2.9)
       jekyll (= 1.2.1)
@@ -46,4 +47,5 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  git
   github-pages

@@ -1,6 +1,8 @@
 #!/usr/bin/env ruby
 
 require 'jekyll'
+require 'git'
+require 'logger'
 
 home = File.dirname(__FILE__)
 
@@ -13,7 +15,8 @@ conf = {
 # Jekyll::Site.new(conf).process
 puts home
 puts `jekyll build -s #{conf[:source]} -d #{conf[:destination]}`
-puts `cd #{conf[:destination]}`
-puts `git add .`
-puts `git commit -m "automatic publish for app with script"`
-puts `git push origin master`
+
+g = Git.open(conf[:destination], :log => Logger.new(STDOUT))
+g.add(:all=>true)  
+g.commit("automatic publish for app with script")
+g.push(g.remote('origin'))
