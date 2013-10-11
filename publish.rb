@@ -20,3 +20,6 @@ g = Git.open(conf[:destination], :log => Logger.new(STDOUT))
 g.add(:all=>true)  
 g.commit("automatic publish for app with script")
 g.push(g.remote('origin'))
+
+g = Git.open(conf[:source], :log => Logger.new(STDOUT))
+g.push(g.remote('publish'))
