@@ -1,0 +1,16 @@
+---
+layout: default
+title:  "Index"
+date:   2013-10-04 22:42:00
+categories: introduction
+---
+{% assign post = site.posts.first %}
+
+<h1>{{ post.title }}</h1>
+<p class="meta">{{ post.date | date: "%a, %Y %b %d" }}</p>
+
+{{ article.published_at | date: "%a, %b %d, %y" }}
+
+<div class="post">
+{{ post.content }}
+</div>

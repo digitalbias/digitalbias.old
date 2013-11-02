@@ -5,5 +5,7 @@ description: Exploring Tech in Daily Life
 url: http://digitalbias.com
 relative_permalinks: false
 permalink: /:year/:month/:day/:title
+paginate: 1
+paginate_path: "/page:num"
 redcarpet:
   extensions: [tables, footnotes]

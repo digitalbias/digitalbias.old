@@ -1,0 +1,21 @@
+---
+layout: default
+title: My Blog
+---
+
+<!-- This loops through the paginated posts -->
+{% include paginator.html %}
+
+{% for post in paginator.posts %}
+  <h1>{{ post.title }}</h1>
+
+  <p class="meta">{{ post.date | date: "%a, %Y %b %d" }}</p>
+
+  {{ article.published_at | date: "%a, %b %d, %y" }}
+
+  <div class="post">
+  {{ post.content }}
+  </div>
+{% endfor %}
+
+{% include paginator.html %}

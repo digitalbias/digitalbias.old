@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "Index"
+title:  "About"
 date:   2013-10-04 22:42:00
 categories: introduction
 ---
