@@ -1,3 +1,9 @@
+---
+layout: post
+title:  "Prayer, Take 1"
+date:   2014-05-04 23:05:00
+categories: religion prayer
+---
 The following is a quote from the Teaching of the Prophets: Spencer W. Kimball
 
 > “I always have very tender feelings about prayers and the power and blessings of prayer,” said President Spencer W. Kimball. “In my lifetime I have received more blessings than I can ever adequately give thanks for. The Lord has been so good to me. I have had so many experiences in sickness and in health that leave me with no shadow of doubt in my heart and mind that there is a God in heaven, that he is our Father, and that he hears and answers our prayers.”

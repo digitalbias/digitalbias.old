@@ -1,5 +1,9 @@
-## 2014 December
-
+---
+layout: post
+title:  "Why Take the Sacrament First"
+date:   2014-12-01 23:00:00
+categories: religion sacrament
+---
 I have often wondered why it is that during sacrament meeting we take the sacrament first and then hear from the speakers messages about what we should do to live the gospel. Today I think I have my answer.
 
 Jesus, when visiting the Nephites for the second time, came down and ministered to the multitude. He had them kneel on the ground and pray. As they did so, they were purified and filled with the Holy Ghost. Then they took the sacrament. Then Jesus taught them the things he had been commanded to teach them the day before. There is a pattern there. It is basically the same pattern we have when in scarament meeting.

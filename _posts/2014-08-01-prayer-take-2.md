@@ -1,3 +1,9 @@
+---
+layout: post
+title:  "Prayer, Take 2"
+date:   2014-08-01 23:00:00
+categories: religion prayer
+---
 In his April 2014 conference address titled, "The Priesthood Man", President Eyring suggested praying each day, talking to God "specifically [about] who has blessed your life and how during that day." He also suggested thanking God for his kindness, and to "think of others, by name, who need your kindness."
 
 The Bible Dictionary section on prayer says,

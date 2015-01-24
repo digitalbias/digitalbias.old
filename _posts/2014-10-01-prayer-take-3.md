@@ -1,3 +1,9 @@
+---
+layout: post
+title:  "Prayer, Take 3"
+date:   2014-10-01 23:00:00
+categories: religion prayer
+---
 In regional conference this September, Elder Scott shared a number of ideas on how to make our prayers more effective. I wish to share the following ideas I gleaned from his talk and which I have been trying to incorporate into my own prayers.
 
 1. We can have a one-on-one with Heavenly Father. We should pray as if we were just talking to Him as if He were sitting right in front of us, face-to-face.

@@ -1,4 +1,9 @@
-## 2014 November
+---
+layout: post
+title:  "Overcome By Faith"
+date:   2014-11-01 23:00:00
+categories: religion faith
+---
 
 As a family we recently read section 76 of the Doctrine and Covenants. While reading about those who achieve the celestial glory, it says:
 
