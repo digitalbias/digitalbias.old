@@ -44,4 +44,4 @@ I found out about the [Snowflake Method](http://www.advancedfictionwriting.com/a
 
 ### Interest?
 
-If you are interested in getting on the early reader list for any of these, let me know and I'll add you to the early reader list.
+If you are interested in getting on the early reader list for any of these, let me know and I'll add you to the early reader list. You can see my email on the left in the navigation bar. 
