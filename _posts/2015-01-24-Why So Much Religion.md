@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Why So Much Religion?"
-date:   2014-08-01 23:00:00
+date:   2015-01-24 11:00:00
 categories: religion blog writing riftwalker status chameria champion snowflake-method
 ---
 # Why so much religion here?
