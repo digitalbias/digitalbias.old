@@ -9,3 +9,4 @@ paginate: 1
 paginate_path: "/page:num"
 redcarpet:
   extensions: [tables, footnotes]
+highlighter: "pygments"
