@@ -1,6 +1,5 @@
 name: David Mitchell
 markdown: redcarpet
-pygments: true
 description: Exploring Tech in Daily Life
 url: http://digitalbias.com
 relative_permalinks: false
